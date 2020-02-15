@@ -1,2 +1,2 @@
 # Cplusplus_STL
-C++ STL Practice
+STL Practice from the book "C++ STL Programming"
