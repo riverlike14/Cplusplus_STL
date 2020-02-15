@@ -15,7 +15,7 @@ The following chapters are main topic that the book covers.
 3. Function Object
 4. Template
 5. Introduction to STL
-6. Sequence Container
+6. Sequence Container (Currently working on...)
 7. Associate Container
 8. Algorithm
 9. STL Function Object
